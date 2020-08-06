@@ -7,14 +7,6 @@
     ]
   },
 
-  "image": {
-    "props": {
-
-      "textAlignment": "center"
-
-    }
-  },
-
   "info-card#button-right": {
     "props": {
       "isFullModeStyle": false,
@@ -27,6 +19,7 @@
       "callToActionUrl": "/sale/d",
       "textAlignment": "center",
       "blockClass": "vintage"
+      
     }
   },
 
@@ -46,6 +39,4 @@
     }
   }
 
-
-  
 }
