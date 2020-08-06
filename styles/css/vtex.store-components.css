@@ -4,7 +4,10 @@
     font-weight: bold;
     color: gray;
     border: 2px solid black;
-    padding: 24px;
+    
+    max-width: 1260px;
+    margin: 0 auto;
+    padding: 0;
     
 }
 
@@ -21,7 +24,7 @@
 }
 
 .infoCardContainer{
-    
+    font-weight: bold;
     max-width: 1260px;
     margin: 0 auto;
     padding: 0;
