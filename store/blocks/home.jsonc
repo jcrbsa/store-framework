@@ -4,9 +4,17 @@
       "rich-text",
       "info-card#button-right",
       "info-card#button-left"
-
     ]
   },
+
+  "image": {
+    "props": {
+
+      "textAlignment": "center"
+
+    }
+  },
+
   "info-card#button-right": {
     "props": {
       "isFullModeStyle": false,
@@ -22,6 +30,7 @@
     }
   },
 
+
   "info-card#button-left": {
     "props": {
       "isFullModeStyle": false,
@@ -36,6 +45,7 @@
       "blockClass": "metal"
     }
   }
+
 
   
 }
