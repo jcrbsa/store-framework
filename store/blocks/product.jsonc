@@ -45,10 +45,11 @@
   "product-identifier.product": {
     "children": [ 
       "product-price",
-      "flex-layout.row#qty-sku"
+      "flex-layout.row"
     ]
   },
-  "flex-layout.row#qty-sku": {
+
+  "flex-layout.row": {
     "children": [
       "sku-selector",
       "product-quantity",
