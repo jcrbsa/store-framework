@@ -27,7 +27,7 @@
   "flex-layout.col#right": {
     "children": [
       "product-name", "product-identifier.product", "product-price",
-      "buy-button"
+      "buy-button", "flex-layout.row#qty-sku"
     ],
     "props":{
       "verticalAlign": "middle",
@@ -45,11 +45,11 @@
   "product-identifier.product": {
     "children": [ 
       "product-price",
-      "flex-layout.row"
+      
     ]
   },
-
-  "flex-layout.row": {
+  
+  "flex-layout.row#qty-sku": {
     "children": [
       "sku-selector",
       "product-quantity",
