@@ -74,5 +74,104 @@
         "props": {
             "orientation": "vertical"
         }
+    },
+    "menu-item#refrigerators": {
+        "props":
+      {
+        "type": "category",
+        "highlight": true,
+        "itemProps": {
+          "categoryId": 4, 
+          "text": "Refrigerators"
+        }
+      }
+    },
+    "menu-item#ovens": {
+        "props":
+      {
+        "type": "category",
+        "highlight": true,
+        "itemProps": {
+          "categoryId": 5, 
+          "text": "Ranges & Ovens"
+        }
+      }
+    },
+    "menu-item#washers": {
+        "props":
+      {
+        "type": "category",
+        "highlight": true,
+        "itemProps": {
+          "categoryId": 6, 
+          "text": "Washers & Dryers"
+        }
+      }
+    },
+    "menu-item#mixers": {
+        "props":
+      {
+        "type": "category",
+        "highlight": true,
+        "itemProps": {
+          "categoryId": 7, 
+          "text": "Mixers & Blenders"
+        }
+      }
+    },
+    "menu-item#toasters": {
+        "props":
+      {
+        "type": "category",
+        "highlight": true,
+        "itemProps": {
+          "categoryId": 8, 
+          "text": "Toasters & Grills"
+        }
+      }
+    },
+    "menu-item#coffee": {
+        "props":
+      {
+        "type": "category",
+        "highlight": true,
+        "itemProps": {
+          "categoryId": 9, 
+          "text": "Coffee Makers"
+        }
+      }
+    },
+    "menu-item#tvs": {
+        "props":
+      {
+        "type": "category",
+        "highlight": true,
+        "itemProps": {
+          "categoryId": 10, 
+          "text": "TVs"
+        }
+      }
+    },
+    "menu-item#laptops": {
+        "props":
+      {
+        "type": "category",
+        "highlight": true,
+        "itemProps": {
+          "categoryId": 11, 
+          "text": "Laptops"
+        }
+      }
+    },
+    "menu-item#cameras": {
+        "props":
+      {
+        "type": "category",
+        "highlight": true,
+        "itemProps": {
+          "categoryId": 12, 
+          "text": "Cameras"
+        }
+      }
     }
 }
