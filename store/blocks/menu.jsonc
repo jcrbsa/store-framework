@@ -12,7 +12,14 @@
     "menu-item#major-appliances":{
         "children": ["vtex.menu@2.x:submenu#major" ]
     },
-    "vtex.menu@2.x:submenu#major": {
+
+    "vtex.menu@2.x:submenu#major":{
+        "children":[
+          "vtex.menu@2.x:menu#major"
+        ]
+      },
+
+    "vtex.menu@2.x:menu#major": {
         "children": [
             [
                 "menu-item#refrigerators",
@@ -24,8 +31,10 @@
             "orientation": "vertical"
         }
     },
+
+    
     "menu-item#small-appliances":{
-        "children": ["vtex.menu@2.x:submenu#msmall"]
+        "children": ["vtex.menu@2.x:submenu#small"]
     },
     "vtex.menu@2.x:submenu#small": {
         "children": [
