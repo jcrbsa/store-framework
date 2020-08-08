@@ -18,7 +18,9 @@
     
   },
   "search-result-layout.desktop":{
-      "props":{
+    "props": {
+        "querySchema": {
+
         "maxItemsPerPage": 8,
         "orderByField": "OrderByReleaseDateDESC",
         "hideUnavailableItems": true,
