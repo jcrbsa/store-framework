@@ -12,12 +12,6 @@
     }
   },
   "search-result-layout.customQuery":{
-      "children": [
-        "search-result-layout.desktop"
-      ]
-    
-  },
-  "search-result-layout.desktop":{
     "props": {
         "querySchema": {
 
@@ -28,8 +22,7 @@
             "mapField": "ft"
 
       }
-
-  }
+    }
 }
 
 }
