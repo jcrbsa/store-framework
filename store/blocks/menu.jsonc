@@ -51,7 +51,7 @@
     },
     "menu-item#eletronics": {
         "children": [
-            "vtex.menu@2.x:submenu#eletronics"
+            "vtex.menu@2.x:submenu#electronics"
         ]
     },
     "vtex.menu@2.x:submenu#electronics": {
